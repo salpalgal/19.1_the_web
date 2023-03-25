@@ -1,0 +1,9 @@
+h1 {
+    font-size: 200px;
+    font-family: Arial;
+    letter-spacing: 10px;
+    display: flex;
+    justify-content: center;
+    color: lavender;
+    
+}
